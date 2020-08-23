@@ -1,0 +1,42 @@
+[
+	{
+		"model": "mediumclone_core.Article",
+		"pk": 1,
+		"fields": {
+			"title": "testing article 1 title",
+			"subtitle": "testing article 1 subtitle",
+			"content": "testing article 1 content",
+			"featured_image": "testing article 1 img path"
+		}
+	},
+	{
+		"model": "mediumclone_core.Article",
+		"pk": 2,
+		"fields": {
+			"title": "testing article 2 title",
+			"subtitle": "testing article 2 subtitle",
+			"content": "testing article 2 content",
+			"featured_image": "testing article 2 img path"
+		}
+	},
+	{
+		"model": "mediumclone_core.Article",
+		"pk": 3,
+		"fields": {
+			"title": "testing article 3 title",
+			"subtitle": "testing article 3 subtitle",
+			"content": "testing article 3 content",
+			"featured_image": "testing article 3 img path"
+		}
+	},
+	{
+		"model": "mediumclone_core.Article",
+		"pk": 4,
+		"fields": {
+			"title": "testing article 4 title",
+			"subtitle": "testing article 4 subtitle",
+			"content": "testing article 4 content",
+			"featured_image": "testing article 4 img path"
+		}
+	}
+]
